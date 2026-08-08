@@ -1,0 +1,6 @@
+{
+  "name": "Ñangareko SIFEN - Facturación Electrónica",
+  "description": "Sistema de Facturación Electrónica Ñangareko SIFEN Paraguay con gestión de inventario, clientes, CDC y emisión de comprobantes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
